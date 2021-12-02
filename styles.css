@@ -1,0 +1,60 @@
+
+
+h1 {
+	color: cadetblue;
+	font-size: 50px;
+
+}
+h2{
+	color: cadetblue;
+	font-size: 12px;
+	margin-top: 50px;
+}
+
+h4{color: black;
+font-size: xx-small;}
+
+h3{color: cadetblue;
+font-size: 12px;
+margin-bottom: 50px;
+}
+
+p{margin-bottom: 20px;
+font-size: 15px;}
+
+
+}
+
+body {margin-left: 20px;
+	font-family: sans-serif;
+
+}
+
+.barchart {display: flex;
+max-width: 1000px;}
+
+/*********************************************************************
+  YOUR DESKTOP-ONLY STYLES GO HERE
+*********************************************************************/
+@media(min-width: 729px) {
+    /* Any adjustments for desktop and larger go here.
+    Note these styles will be applied to anything 729px or larger -- so desktop */
+}
+h4{font-size: x-small;}
+
+h2{font-size: large;
+	margin-top: 20px;
+	color: black;
+
+}
+
+h3{margin-top: 0px;
+	margin-bottom: 20px;
+    color: black;
+}
+
+body{margin-left: 20px;
+	font-family: sans-serif;
+}
+
+
